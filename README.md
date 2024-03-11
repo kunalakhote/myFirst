@@ -1,4 +1,4 @@
 # myFirst
 This is Test Repository for Learning <br>
 <hr><hr>
-Author - Kunal Akhote
+Author - Kunal Akhote (The main contributor)
